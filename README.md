@@ -1,6 +1,6 @@
 # Hello there, I'm Daniel Awale 👋
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=danielAwale&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=danielAwale&show_icons=true&theme=radical" />
 <img src="https://github.r2v.ch/codewars?user=danielAwale&stroke=%23BB432C" />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
